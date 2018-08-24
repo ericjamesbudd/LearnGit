@@ -31,6 +31,8 @@ p {
     color: #000;
 }
 
+a { color: brown; }
+
 hr {
     max-width: 400px;
     border-color: #999999;
